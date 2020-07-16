@@ -1,0 +1,14 @@
+{
+    "start": 1594606414.531853,
+    "script": "test_blackjack.air",
+    "tests": {
+        "00c3350389b0cca8": {
+            "status": 0,
+            "path": "test_blackjack.air\\log\\00c3350389b0cca8\\log.html"
+        },
+        "87b92df3": {
+            "status": 4294967295,
+            "path": "test_blackjack.air\\log\\87b92df3\\log.html"
+        }
+    }
+}
